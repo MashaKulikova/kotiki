@@ -1,0 +1,19 @@
+@keyframes animation-name {   
+  0% {     
+    color: red;   
+  }   
+  25% {
+  	color: pink;
+  }
+  50% {     
+    color: orange;   
+  } 
+  75% {
+  	color: yellow;
+  }
+  90% {
+    color: blue;
+   }
+   100% {     
+    color: red;   
+  }	

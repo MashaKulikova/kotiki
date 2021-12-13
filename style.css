@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,600;1,300;1,600&display=swap');
+
+* {
+	margin: auto;
+	padding: auto;
+	font-family: Source Serif Pro;
+	box-sizing: border-box;
+}
+body {
+	background-color: #F0FFF0;
+}
+.header {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	height: 100px;
+	padding: 0px;
+	background: linear-gradient(to right, #9acd32, #00bfff);
+}
+.logo {
+	width: 100ox;
+	height: 100px;
+	
+}
+.nav-menu {
+	display: inline-block;
+	color: #fff;
+	text-decoration: none;
+	font-size: 20px;
+	margin-left: 50px;
+	margin-right: 100px;
+}
+.nav-container {
+	margin: 35px 0;
+	width: 90%;
+	float: right;
+	text-align: center;
+}
+.h2 {
+	font-size: 35px;
+	text-align: center;
+	margin: 30px 0;
+}
+.belok {
+	float: left;
+	margin-right: 50px;
+}
+
+li {
+	margin: 10px 0; /*расстояние между строками списка*/
+}
+p {
+	text-indent: 35px; /*красная строка*/
+	margin: 10px 70px;
+	text-align: center;
+	width: 85%;
+}
+.blok1 {
+	margin-left: 50px;
+	vertical-align: middle;
+}
+.main {
+	margin-top: 150px;
+}
+.history {
+	clear: both;
+}
+.dl {
+	
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/*
+https://litbro.ru/porody-koshek/turetskaya-angora/turetskaya-angora
+https://lapkins.ru/cat/turetskaya-angora/
+https://koshkiwiki.ru/porody/poludlinnoshyorstnye/tureckaya-angora.html
+https://101hvost.ru/koshki/porody-koshki/tureczkaya-angora
+https://html5book.ru/vypadayushee-menu/
+*/
